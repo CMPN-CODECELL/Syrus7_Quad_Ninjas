@@ -368,7 +368,7 @@ Potential next work, not currently implemented: authenticated roles and durable 
 
 Built with teamwork for **SYRUS 7.0 Hackathon — Healthcare & Sustainability Track**.
 
-- **Roshan M** , **Rishi Gogia** , **Chirfag Nagra** ,**Lakhan Karani**
+- **Roshan Manjal** , **Rishi Gogia** , **Chirfag Nagra** ,**Lakhan Karani**
 
 Replace these placeholders with the team's actual names and contributions before submission; no member details were available in the repository during this review.
 
