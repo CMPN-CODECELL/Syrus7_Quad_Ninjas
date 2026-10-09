@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Environment files (exclude secret keys, preserve templates)
+.env
+*.env
+backend/.env
+!.env.example
+!backend/.env.example
+
+backend/data/
