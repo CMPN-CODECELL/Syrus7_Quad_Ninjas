@@ -364,9 +364,11 @@ Potential next work, not currently implemented: authenticated roles and durable 
 
 ## Team Contributions
 
-- [Member 1 Name] — [Verified contribution]
-- [Member 2 Name] — [Verified contribution]
-- [Member 3 Name] — [Verified contribution]
+## Team Quad Ninjas
+
+Built with teamwork for **SYRUS 7.0 Hackathon — Healthcare & Sustainability Track**.
+
+- **Roshan M** , **Rishi Gogia** , **Chirfag Nagra** ,**Lakhan Karani**
 
 Replace these placeholders with the team's actual names and contributions before submission; no member details were available in the repository during this review.
 
